@@ -17,3 +17,9 @@
     <br>
     <img src="/public/images/ignews-posts.png">
 </div>
+
+<div>
+    <h3>Testes Unitários</h3>
+    <br>
+    <p>No Chapter 5 da Trilha ReactJS da Rocketseat, implementamos testes automatizados de unidade dentro do React, garantindo que nossos componentes e páginas continuem funcionando independente de novas manutenções. Para isso usamos Jest e Testing Library.</p>
+</div>
